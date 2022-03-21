@@ -1,0 +1,1 @@
+{"version":1,"width":128,"height":128,"rules":{"default":{"layers":["icon"],"mainElementName":"icon"}},"elements":{"icon":{"width":128,"height":128,"resource":{"path":"tokens/{id}/icon.png","value":{"content":{"id":"id"}}}}}}
